@@ -14,9 +14,9 @@ oportunidade de estágio ou vaga júnior.
 - Git e GitHub
 
 ## 📂 Projetos em Destaque
-### 🖥️ Projeto Formação em TI (6 meses)
+### 1. 🖥️ Projeto Formação em TI (6 meses)
 
 Projeto pessoal estruturado com foco em infraestrutura, sistemas operacionais, redes e automação, com entregas mensais documentadas.
 
-[ Projeto Formação Essencial ](https://github.com/Andre-luis1/Projeto-Formacao-TI)
+ -[ Projeto Formação Essencial ](https://github.com/Andre-luis1/Projeto-Formacao-TI)
 

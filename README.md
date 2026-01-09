@@ -13,6 +13,10 @@ oportunidade de estágio ou vaga júnior.
 - Redes de Computadores
 - Git e GitHub
 
-## Mesu Projetos
+## 📂 Projetos em Destaque
+### 🖥️ Projeto Formação em TI (6 meses)
+
+Projeto pessoal estruturado com foco em infraestrutura, sistemas operacionais, redes e automação, com entregas mensais documentadas.
+
 [ Projeto Formação Essencial ](https://github.com/Andre-luis1/Projeto-Formacao-TI)
 

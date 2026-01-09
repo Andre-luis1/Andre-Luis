@@ -14,5 +14,5 @@ oportunidade de estágio ou vaga júnior.
 - Git e GitHub
 
 ## Mesu Projetos
-[ Projeto Formação Essencial ](Projeto-Formacao-TI)
+[ Projeto Formação Essencial ](https://github.com/Andre-luis1/Projeto-Formacao-TI)
 
